@@ -10,6 +10,7 @@
 2. 받은 Repository에서 본인 브랜치를 만듭니다. ex) docs/yanghojoon (본인이름으로 작성해주세요)
 3. `practice.txt` 파일을 엽니다.
 <img width="698" alt="스크린샷 2023-06-24 오후 11 35 29" src="https://github.com/yanghojoon/GitPractice/assets/90880660/f70b0f7e-90c8-422a-9cc9-38c831890641">
+
 4. 답변을 작성합니다.
 
 ### Step 2
